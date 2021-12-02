@@ -26,5 +26,5 @@ def solution_two():
 
 
 if __name__ == '__main__':
-    print( f"The solution to question one is: {solution_one()}")
-    print( f"The solution to question two is: {solution_two()}")
+    print(f"The solution to question one is: {solution_one()}")
+    print(f"The solution to question two is: {solution_two()}")
